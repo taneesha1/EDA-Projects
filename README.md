@@ -27,3 +27,7 @@ This repository contains **three comprehensive Exploratory Data Analysis (EDA) p
 ---
 ## Tech Stack:
 Python, Pandas, Seaborn, Matplotlib
+
+---
+
+All the datasets have been taken from Kaggle
