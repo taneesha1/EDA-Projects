@@ -24,6 +24,6 @@ This repository contains **three comprehensive Exploratory Data Analysis (EDA) p
 - **Goal:** Understand how personal, academic, and parental factors influence exam scores.
 
 
-**Tech Stack:** Python, Pandas, Seaborn, Matplotlib
-
 ---
+## Tech Stack:
+Python, Pandas, Seaborn, Matplotlib
