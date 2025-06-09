@@ -6,9 +6,9 @@ This repository contains **three comprehensive Exploratory Data Analysis (EDA) p
 
 ##  Projects Overview
 
-### 1. Personality Traits and Social Behavior
-- **Dataset:** Survey data with 8 behavioral and social features.
-- **Goal:** Explore patterns between social behavior (e.g., alone time, stage fear, social event attendance) and personality types (Introvert/Extrovert).
+### 1.Student Academic Performance
+- **Dataset:** Academic and behavioral features of students and their exam scores.
+- **Goal:** Understand how personal, academic, and parental factors influence exam scores.
 
 ---
 
@@ -19,9 +19,9 @@ This repository contains **three comprehensive Exploratory Data Analysis (EDA) p
 
 ---
 
-### 3. Student Academic Performance
-- **Dataset:** Academic and behavioral features of students and their exam scores.
-- **Goal:** Understand how personal, academic, and parental factors influence exam scores.
+### 3.  Personality Traits and Social Behavior
+- **Dataset:** Survey data with 8 behavioral and social features.
+- **Goal:** Explore patterns between social behavior (e.g., alone time, stage fear, social event attendance) and personality types (Introvert/Extrovert).
 
 
 ---
